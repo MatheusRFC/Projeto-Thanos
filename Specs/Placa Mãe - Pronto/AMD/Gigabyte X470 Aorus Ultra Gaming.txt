@@ -1,0 +1,17 @@
+Gigabyte X470 Aorus Ultra Gaming R$900,00
+
+Especificações:
+
+- Processador AMD Ryzen 
+- Processadores AMD da 7ª Geração Série A / Athlon 
+- AMD X470
+- 4 soquetes DDR4 DIMM suportando até 64 GB de memória do sistema
+- Arquitetura de memória dual channel
+- Suporta for DDR4 3200(O.C.) / 3000(O.C.) / 2933 / 2667 / 2400 / 2133 MHz modulo de memória
+- Suporte para módulos de memória DIMM 1Rx8 / 2Rx8 sem buffer ECC (operam em modo no-ECC)
+- Suporte para módulos de memória DIMM no-bufferizados 1Rx8 / 2Rx8 / 1Rx16 no-ECC
+- Suporte para módulos de memória Extreme Memory Profile (XMP) (Por favor, consulte "Lista de Suporte de Memória" para mais informações.)
+- 1 x porta HDMI, suportando uma resolução máxima de 4096x2160 @ 60 Hz * 
+* Suporte para a versão HDMI 2.0 e HDCP 2.2. * 
+* O suporte real pode variar de acordo com a CPU.
+- Memória compartilhada máxima de 2 GB

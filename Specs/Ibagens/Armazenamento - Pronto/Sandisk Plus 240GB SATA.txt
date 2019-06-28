@@ -1,0 +1,11 @@
+Sandisk Plus 240GB SATA R$190,00
+
+Especificações:
+
+- Capacidade: 240GB
+- Leituras: 530MB/s 
+- Gravações: 440MB/s 
+- Interface: SATA Revisão 3.0 (6 Gb/s)
+- Temperatura Operacional: 32 ºF a 158 ºF (0 ºC a 70 ºC)
+- Choque: Resistente a até 1500 G
+- Vibração: 5 gRMS, 10-2000 HZ / 4,9 gRMS, 7-800 HZ

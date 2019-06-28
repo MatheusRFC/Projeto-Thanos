@@ -1,0 +1,12 @@
+Corsair Gamer Crystal Series 570X ATX RGB RS1.150,00
+
+Especificações:
+
+- Fator forma do gabinete Mid-Tower
+- Dimensões 480 x 234 x 512mm
+- Suporte da placa-mãe do gabinete Mini-ITX, MicroATX, ATX (até 272 milímetros)
+- Comprimento máximo da GPU 370 milímetros
+- Altura máxima da ventoinha da CPU 170 milímetros
+- Comprimento máximo da PSU 225 milímetros
+- Material do gabinete: Aço
+- Fonte de alimentação do gabinete ATX (não incluído)

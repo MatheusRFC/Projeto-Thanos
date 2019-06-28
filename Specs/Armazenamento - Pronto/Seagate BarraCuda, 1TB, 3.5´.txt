@@ -1,0 +1,14 @@
+Seagate BarraCuda 1TB 3.5´ R$220,00
+
+Especificações:
+
+- Número do modelo ST1000DM010
+- Interface SATA III 6.0Gb/s
+- Cache 64MB
+- Capacidade 1TB
+- Fator de Forma: 3.5"
+- Velocidade do eixo: 7200RPM
+- Dimensão Aproximada: 26.11 x 101.60 x 146.99mm
+- Taxas de transferência SATA suportadas (Gb / s): 6.0/3.0/1.5
+- Taxa média de dados, leitura/gravação: 156
+- Máx. Taxa de dados, leitura/gravação OD: 210

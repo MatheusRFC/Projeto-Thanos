@@ -1,0 +1,15 @@
+Processador AMD Ryzen™ 7 1700 R$1.300,00
+
+Especificações:
+- Séries: Ryzen 7
+- Socket: Socket AM4
+- Núcleos: 8 core
+- Frequência de Operação: 3.0GHz (3.7GHz Max Turbo)
+- L2 Cache: 4MB
+- L3 cache: 16MB
+- Modo de operação 64 Bit
+- Potência: 65 W 
+
+Benchmarks:
+
+3DMark Physics: 19.615 

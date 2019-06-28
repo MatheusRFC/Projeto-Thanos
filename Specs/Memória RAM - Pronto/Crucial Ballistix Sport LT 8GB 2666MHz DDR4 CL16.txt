@@ -1,0 +1,16 @@
+Crucial Ballistix Sport LT 8GB 2666MHz DDR4 CL16 R$270,00
+
+Especificações:
+
+- Fator de forma: UDIMM 
+- Capacidade Total: 8GB 
+- Tipo: DDR4
+- PC4-21300
+- Latência: 16-18-18
+- Sem buffer
+- Não-ECC
+- Velocidade: 2666 MHz
+- Tensão: 1.2V
+- 1024Meg x 64
+- Série: Ballistix Sport
+- ECC: não-ECC

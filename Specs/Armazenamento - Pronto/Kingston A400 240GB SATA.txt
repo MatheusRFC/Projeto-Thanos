@@ -1,0 +1,14 @@
+Kingston A400 240GB SATA R$160,00
+
+Especificações:
+
+- Formato: 2,5 pol 
+- Interface: SATA Rev. 3.0 (6Gb/s) — compatível com a versão anterior SATA Rev. 2.0 (3Gb/s)
+- Capacidades: 240GB
+- NAND: TLC 
+- Performance de referência - até 500MB/s para leitura e 350MB/s para gravação 
+- Temperatura de armazenamento: -40 °C a 85 °C 
+- Temperatura de operação: 0 °C a 70 °C
+- Vibração quando em operação: 2,17G pico (7 – 800 Hz)
+- Vibração quando não está em operação: 20G pico (10 – 2000 Hz)
+- Expectativa de vida útil: 1 milhão de horas MTB

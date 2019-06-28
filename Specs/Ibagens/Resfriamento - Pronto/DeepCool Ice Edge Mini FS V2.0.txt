@@ -1,0 +1,15 @@
+DeepCool Ice Edge Mini FS V2.0 R$60,00
+
+vEspecificações:
+
+- Dimensões: 119 x 75 x 112 mm
+- Dimensões do Cooler: 80 x 80 x 25 mm
+- Tensão Nominal: 12 VDC
+- Tensão de Operação: 10.8 ~ 13.2 VDC
+- Tensão de Partida: 7VDC
+- Corrente Nominal: 0.12 (+-10%) A
+- Potência de Entrada: 1.44W
+- Velocidade: 2200 rpm (+-10%)
+- Fluxo de ar: 25.13 CFM (máx)
+- Nível de Ruído: 24.7dB (A)
+- Tipo de Rolamento: Hydro Bearing

@@ -1,0 +1,13 @@
+SAMSUNG 970 EVO PLUS M.2 500 Gb R$920,00
+
+Especificações:
+
+- Tipo de Produto: SSD
+- Series: 970 EVO Plus
+- Interface: PCIe Gen 3.0 x 4, NVMe 1.3
+- Velocidade de leitura sequencial: Até 3.500 MB / s 
+- Velocidade de gravação sequencial: Até 3.200 MB / s 
+- Velocidade de leitura aleatória: Leitura aleatória (4KB, QD32): Até 480.000 IOPS; Leitura aleatória (4KB, QD1): Até 19.000 IOPS 
+- Velocidade de gravação aleatória: Gravação aleatória (4KB, QD32): até 550.000 IOPS; Gravação aleatória (4KB, QD1): Até 60.000 IOPS 
+- Controlador: Samsung Phoenix Controller
+- Flash NAND: MLC de 3 bits Samsung V-NAND

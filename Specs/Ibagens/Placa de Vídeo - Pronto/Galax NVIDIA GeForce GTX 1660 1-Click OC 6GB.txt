@@ -1,0 +1,13 @@
+Galax NVIDIA GeForce GTX 1660 1-Click OC 6GB R$1.340,00
+
+Especificações:
+
+- CUDA Cores 1408
+- Clock: 1800 MHz
+- 1-Click OC Clock (MHz) 1815 (instalando o software Xtreme Tuner Plus e usando 1-Click OC)
+- Velocidade: 8 Gbps
+- Largura da interface: GDDR5 de 192 bits
+- Largura de Banda: 192 GB / seg
+- 1x Display DP 1.4
+- 1x HDMI 2.0b
+- 1x Dual Link-DVI

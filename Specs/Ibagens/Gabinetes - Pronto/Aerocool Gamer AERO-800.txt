@@ -1,0 +1,11 @@
+Aerocool Gamer AERO-800 R$260,00
+
+specificações:
+
+- Tipo: Mid Tower
+- Espessura de aço: 0,55mm
+- Placa-mãe: ATX / micro ATX / mini-ITX
+- Dimensões: 200 x 501 x 475,8 mm
+- Slots de expansão: 7
+- Apuramento da GPU: 390mm
+- Limite de altura para refrigeradores de CPU: 155mm

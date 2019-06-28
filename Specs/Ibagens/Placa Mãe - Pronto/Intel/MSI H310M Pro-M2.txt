@@ -1,0 +1,16 @@
+MSI H310M Pro-M2 R$460,00
+
+Especificações:
+
+- Intel H310 Chipset
+- 2x Slots de memória DDR4, suporta até 32GB
+- Suporta DDR4 2666/2400/2133 MHz
+- Arquitetura de memória dual channel
+- Suporta memória não-ECC não-tamponada
+- Suporta processadores Intel Extreme Memory Profile (XMP)
+- 1x Slot PCIe 3.0 x16
+- 2x Slots PCIe 3.0 x1
+- 1x Porta VGA, suporta uma resolução máxima de 2048x1536 a 50Hz, 2048x1280 a 60Hz, 1920x1200 a 60Hz
+- 1x Porta DVI-D, suporta uma resolução máxima de 1920x1200 @ 60Hz
+- 1x Porta HDMI 1.4, suporta uma resolução máxima de 4096x2160 a 30Hz
+- Suporta até 2 monitores simultaneamente

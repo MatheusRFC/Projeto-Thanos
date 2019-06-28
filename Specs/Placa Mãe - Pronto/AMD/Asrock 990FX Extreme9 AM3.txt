@@ -1,0 +1,15 @@
+Asrock 990FX Extreme9 AM3 R$1.100,00
+
+Especificações:
+
+- Capacitores Premium Gold, Capacitores Multiple Filter
+- Suporta MOSFET Dual-Stack (DSM), Digi Power, Design Power Phase 12 + 2
+- Suporta Processador AM3+, CPU de 8-Núcleos
+- Suporta Dual Channel DDR3 2450(OC)
+- 4 slots PCIe 2.0 x16, Suporta NVIDIA 3-Way SLI, AMD 3-Way CrossFireX™
+- 8 x SATA3, 2 x eSATA3, 8 x USB 3.0, 8 x USB 2.0
+- Suporta Conector de Energia de Alta-Densidade
+- Intel Gigabit LAN
+- Suporta ASRock X-Boost, XFast 555, Fast Boot, Reiniciar para a UEFI, Desumidificador, OMG, Internet Flash, Easy RAID Installer
+- Áudio HD 7.1 Canais com Proteção de Conteúdo (Codec de Áudio Realtek ALC898)
+- Pacote Grátis : CyberLink MediaEspresso 6.5 Trial, Barra de Tarefas e Navegador Google Chrome, 1 x Painel USB 3.0 Frontal com Rack de HDD/SSD 2.5"

@@ -1,0 +1,14 @@
+Asus M5a78l-m Lx Am3/am3+ R$370,00
+
+Processador:
+- Plataforma: AMD
+- Soquete: AM3+
+- CPU Suportado: FX (Até 95W), Phenom II , Athlon II, Sempron Series 100
+- Northbridge: AMD 760G 
+- Southbridge: SB710
+- Vídeo Integrado: Sim
+- Chipset: ATI Radeon HD 3000- Máx (MB): 1GB (Compartilhada)
+- Multi-GPU: Hybrid CrossFireX
+- Bancos de Memória: 2 x DDR3
+- Frequência Máxima: 1866(O.C.)* / 1600(O.C.)** / 1333 / 1066 MHz
+- Máximo Suportado: 16GB

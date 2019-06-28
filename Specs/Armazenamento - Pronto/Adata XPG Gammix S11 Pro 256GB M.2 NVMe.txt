@@ -1,0 +1,12 @@
+Adata XPG Gammix S11 Pro 256GB M.2 NVMe R$350,00
+
+Especificações:
+- Capacidade: 256 GB
+- Flash NAND: 3D TLC
+- Interface: PCIe Gen3 x4
+- Temperatura de operação: 0º C ~ 70º C
+- Fator de forma: M.2 2280
+- Temperatura de armazenamento: -40º C ~ 85º C
+- MTBF: 2.000.000 horas
+- Leitura Sequencial: 3350 MB / seg
+- Gravação Sequencial: 1150 MB / seg

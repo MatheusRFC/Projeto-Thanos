@@ -1,0 +1,10 @@
+Aerocool Aero 500 R$230,00
+
+Especificações:
+
+- Tipo: Mid Tower 
+- Espessura da chapa: 0,50mm 
+- Placa Mãe: Micro ATX / ATX / Mini ITX 
+- Slots de expansão: 7 Slots 
+- Limite de Altura do Cooler: 155mm
+- Dimensões: 203 x 505 x 439.5mm

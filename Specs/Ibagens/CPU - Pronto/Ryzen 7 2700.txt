@@ -1,0 +1,17 @@
+Processador AMD Ryzen™ 7 2700 R$1600,00
+
+Especificações:
+
+- Séries: Ryzen 7
+- Processo de fabricação: 12nm
+- Socket: Socket AM4
+- Núcleos: 8 core
+- Threads: 16
+- Frequência de Operação: 3.2GHz (Max Turbo 4.1GHz)
+- Cache L3: 16MB
+- Cache L2: 4MB
+- Potência: 65 W
+
+Benchmarks:
+
+3DMark Physics: 19.786

@@ -1,0 +1,17 @@
+Msi B450m Pro-m2 Pro Series R$500,00
+
+Especificações:
+
+-Suporta AMD ® 1º Ryzen e 2ª Geração / Ryzen ™ com Radeon ™ Vega Gráficos / Athlon ™ com Radeon ™ -Vega processadores gráficos para soquete AM4
+-Chipset
+-Chipset AMD ® B450
+-2 x slots de memória DDR4, suporta até 32GB
+-Suporta DDR4 1866/2133/2400/2667 MHz por JEDEC, e 2667/2800/2933/3000/3066/3200/3466 MHz pelo modo A-XMP OC
+-Arquitetura de memória dual channel
+-Suporta memória ECC UDIMM (modo não-ECC)
+-Suporta memória UDIMM não-ECC
+-1 x slot PCIe 3.0 x16 (PCI_E1)
+-Suporta velocidade x16 com processadores AMD ® Ryzen ™ de 1ª e 2ª geração
+-Suporta velocidade x8 com processadores AMD ® Ryzen ™ com Radeon Vega Graphics
+-Suporta velocidade x4 com AMD ® Athlon ™ com Radeon ™ Vega processadores gráficos
+-2 x slots PCIe 2.0 x1

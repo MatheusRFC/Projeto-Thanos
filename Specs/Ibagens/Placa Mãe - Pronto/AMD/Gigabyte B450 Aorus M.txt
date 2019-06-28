@@ -1,0 +1,15 @@
+Gigabyte B450 Aorus M R$700,00
+
+Especificações:
+
+Soquete AM4:
+- Processadores AMD Ryzen 2ª Geração
+- Processadores AMD Ryzen com Radeon Vega Graphics
+- Processadores AMD Ryzen 1ª Geração
+- AMD B450
+- 4 soquetes DDR4 DIMM suportando até 64 GB de memória do sistema
+- Arquitetura de memória dual channel
+- Suporte para módulos de memória DDR4 3200 (OC) / 2933/2667/2400/2133 MHz
+- Suporte para módulos de memória DIMM 1Rx8 / 2Rx8 sem buffer ECC (operam em modo no-ECC)
+- Suporte para módulos de memória DIMM não-bufferizados 1Rx8 / 2Rx8 / 1Rx16 no-ECC
+- Suporte para módulos de memória Extreme Memory Profile (XMP)

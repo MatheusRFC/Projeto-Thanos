@@ -1,0 +1,11 @@
+MSI B360M Bazooka R$590,00
+
+Processador:
+- Suporta 8ª Geração Intel Core Processors, Intel Pentium e Celeron para soquete LGA1151
+- Intel  Chipset B360
+- 4 x slots de memória DDR4, suporta até 64GB
+- Suporta DDR4 2666/2400/2133 MHz 
+- Arquitetura de memória dual channel
+- Suporta memória UDIMM no-ECC
+- Suporta processadores Intel ® Extreme Memory Profile (XMP)
+* Por favor, consulte www.msi.com para mais informações sobre memória compatível.

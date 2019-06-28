@@ -1,0 +1,33 @@
+Gigabyte mATX B360M AORUS GAMING 3 R$520,00
+
+Especificações:
+
+- Suporte para 8ª Geração Intel processadores Core i7 / Intel Core i5 / Intel Core i3 / Intel Pentium processadores / Intel Celeron processadores no pacote LGA1151
+- Cache L3 varia com a CPU
+- Intel Chipset B360 Express
+- 4 Soquetes DDR4 DIMM suportando até 64 GB de memória do sistema
+- Arquitetura de memória dual channel
+- Suporte para módulos de memória DDR4 2666/2400/2133 MHz
+- Suporte para módulos de memória DIMM 1Rx8 / 2Rx8 sem buffer ECC (operam em modo não-ECC)
+- Suporte para módulos de memória DIMM não-bufferizados 1Rx8 / 2Rx8 / 1Rx16 não-ECC
+- Suporte para módulos de memória Extreme Memory Profile (XMP) 
+
+
+
+ 
+
+Gráficos Onbord:
+
+ 
+
+Processador gráfico integrado Intel HD Graphics suporta:
+
+- 1x Porta DVI-D, suportando uma resolução máxima de 1920x1200 @ 60 Hz 
+
+* A porta DVI-D não suporta conexão D-Sub por adaptador.
+
+- 1x Porta HDMI, suportando uma resolução máxima de 4096x2160 @ 30 Hz 
+
+* Suporte para HDMI 1.4 versão e HDCP 2.2.
+
+- Memória compartilhada máxima de 1 GB

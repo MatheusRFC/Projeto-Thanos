@@ -1,0 +1,15 @@
+Processador Intel® Core™ i7-7700
+
+Modelo gráfico: Intel® HD Graphics 630
+Nº de núcleos de CPU: 4 
+Nº de threads: 8 
+Clock de Max Boost: 4.2 GHz 
+Clock básico: 3.6GHz 
+Solução térmica: Default Cooler Box
+TDP / TDP Padrão: 65W
+
+Preço: 1790,00
+
+Benchmarks:
+
+3DMark Physics: 12.313

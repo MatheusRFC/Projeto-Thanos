@@ -1,0 +1,13 @@
+Asus GeForce GTX 1050 Ti 4GB R$740,00
+
+Especificações:
+
+- NVIDIA GeForce GTX 1050 TI
+- CUDA: 768
+- PCI Express 3.0
+- Tipo: GDDR5
+- Capacidade: 4GB
+- Clock: 7008 Mhz
+- Interface: 128 bits
+- OC Mode - GPU Boost Clock: 1480 MHz , GPU Base Clock: 1366 MHz
+- Gaming Mode (Default) - GPU Boost Clock: 1455 MHz , GPU Base Clock: 1341 MHz

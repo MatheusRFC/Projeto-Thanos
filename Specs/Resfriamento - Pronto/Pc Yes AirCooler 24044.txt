@@ -1,0 +1,15 @@
+Pc Yes AirCooler 24044 R$90,00
+
+Especificações:
+
+-Part number: ACZK4120
+-Tensão: 12 VDC
+-Fluxo de ar: 60,7 CFM
+-Velocidade dos fans: 800-1800 RPM (PWM)
+-TDP: 130 W
+-Nível de ruido: 16.0-29.2 dBa
+-Heatpipes: 4x6mm em contato direto com processador
+-Material da base: Cobre / Alumínio
+-COMPATIBILIDADE: 
+-LGA: 2011/1150/1151/1155/1156
+-AMD: FM2+/FM2/FM1/AM3+/AM3/AM2+/AM2

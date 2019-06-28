@@ -1,0 +1,13 @@
+Processador AMD FX 8300 R$310,00
+
+Modelo gráfico: Exige cartão gráfico discreto 
+Nº de núcleos de CPU: 8
+Nº de threads: 8 
+Clock de Max Boost: 4.2 GHz 
+Clock básico: 3.3 GHz 
+Solução térmica: AMD old cooler box
+TDP / TDP Padrão: 95W
+
+Benchmarks:
+
+3DMark Physics: 6.288

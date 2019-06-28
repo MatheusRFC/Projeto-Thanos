@@ -1,0 +1,13 @@
+Cooler Master Liquid 240 Dual Fan R$770,00
+
+Especificações:
+
+-Intel® LGA: 2011-v3 / 2011 / 1366 / 1151 / 1150 / 1156 / 1155 / 775
+-AMD®: AMD® AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1
+-277 x 119.6 x 27 mm (10.9 x 4.71 x 1.06?)
+-Alumínio
+-120 x 120 x 25 mm (4.7 x 4.7 x 1?)
+-650 ~ 2000 RPM (PWM) ± 10%
+-66.7 CFM (Max)
+-2.34 mmH2O ± 10% (Max)
+-6-30 dBA

@@ -1,0 +1,15 @@
+Processador AMD FX 9590
+
+Modelo gráfico: Exige cartão gráfico discreto 
+Nº de núcleos de CPU: 8
+Nº de threads: 8 
+Clock de Max Boost: 5.0 GHz 
+Clock básico: 4.7 GHz 
+Solução térmica: AMD old cooler box
+TDP / TDP Padrão: 220W
+
+Preço: 1220,00
+
+Benchmarks:
+
+3DMark Physics: 7.962

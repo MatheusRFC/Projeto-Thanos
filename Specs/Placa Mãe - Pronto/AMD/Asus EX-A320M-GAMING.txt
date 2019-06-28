@@ -1,0 +1,14 @@
+Asus EX-A320M-GAMING R$500,00
+
+CPU:
+
+- Soquete AMD AM4 para AMD Ryzen / Ryzen com Radeon Vega Graphics / Processadores Ryzen de 1ª Geração / 7ª Geração Série A / Athlon X4 / Athlon
+- Suporta CPU de até 8 núcleos
+- AMD A320
+- Processadores AMD Ryzen: 4x DIMM, máx. Memória de 64 GB, DDR4 2666/2400/2133 MHz ECC, não-ECC, sem buffer 
+- Processadores AMD Ryzen / 7ª geração série A / Athlon: 4x DIMM, máx. 64 GB, DDR4 2400/2133 MHz ECC, não-ECC, memória não protegida por buffer 
+- Processador gráfico integrado 
+- Suporte de saída Multi-VGA: portas HDMI / DVI-D 
+- Suporta HDMI com máx. resolução 4096 x 2160 @ 24 Hz 
+- Suporta DVI-D com máx. resolução 1920 x 1200 @ 60 Hz 
+- Memória compartilhada máxima de 2048 MB (exclusivamente para iGPU)

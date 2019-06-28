@@ -1,0 +1,13 @@
+Processador Intel® Core™ i7-8700
+
+Modelo gráfico: Intel® UHD Graphics 630
+Nº de núcleos de CPU: 6 
+Nº de threads: 12 
+Clock de Max Boost: 4.6 GHz 
+Clock básico: 3.2GHz 
+Solução térmica: Default Cooler Box
+TDP / TDP Padrão: 65W
+
+Benchmarks:
+
+3DMark Physics: 18.889

@@ -1,0 +1,11 @@
+PCYes AMD Radeon RX 550 4GB R$550,00
+
+Especificações:
+
+- Chipset: Radeon RX 550 
+- CUDA Cores : 512 
+- Tamanho da Memória: 4GB 
+- Tipo de Memória: GDDR5 
+- Interface de Memória : 128 bit 
+- Clock Principal : 1183 MHZ 
+- Memory Clock : 6000MHZ / 7000MHZ 

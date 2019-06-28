@@ -1,0 +1,17 @@
+Gigabyte B450M Gaming mATX R$520,00
+
+Especificações:
+
+- Soquete AM4: Suporte para a segunda geração Ryzen / Ryzen com Radeon Vega Graphics / Athlon com processadores Radeon Vega Graphics / Ryzen de 1ª geraçã
+- AMD B455
+- 2 x soquetes DDR4 DIMM suportando até 32 GB de memória do sistema
+- Arquitetura de memória dual channel
+- Suporte para módulos de memória DDR4 2933/2667/2400/2133 MHz
+- Suporte para módulos de memória DIMM 1Rx8 / 2Rx8 sem buffer ECC (operam em modo não-ECC)
+- Suporte para módulos de memória DIMM não-bufferizados 1Rx8 / 2Rx8 / 1Rx16 não-ECC
+- Suporte para módulos de memória Extreme Memory Profile (XMP)
+- Processador Gráfico Integrado:
+- 1 x porta D-Sub, suportando uma resolução máxima de 1920x1200 @ 60 Hz
+- 1 x porta DVI-D, suportando uma resolução máxima de 1920x1200 @ 60 Hz 
+- 1 x porta HDMI, suportando uma resolução máxima de 4096x2160 @ 60 Hz 
+- Memória compartilhada máxima de 2 GB

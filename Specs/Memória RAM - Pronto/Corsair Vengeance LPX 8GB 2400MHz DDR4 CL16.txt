@@ -1,0 +1,12 @@
+Corsair Vengeance LPX 8GB 2400MHz DDR4 CL16 R$280,00
+
+Especificações:
+
+- Capacidade: 8GB
+- Velocidade: 2400 Mhz
+- Pinagem: 288-pin
+- Timing: 16-16-16-39
+- Cas Latência: 16
+- Tecnologia: DIMM
+- Tipo: DDR4 SDRAM
+- Voltagem: 1.2 volts

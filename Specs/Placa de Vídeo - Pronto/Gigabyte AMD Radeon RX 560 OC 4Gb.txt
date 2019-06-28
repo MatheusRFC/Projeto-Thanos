@@ -1,0 +1,16 @@
+Gigabyte AMD Radeon RX 560 OC 4Gb R$520,00
+
+Especificações:
+
+- Fabricante: AMD
+- Clock Principal: Modo OC: 1199 MHz  / Modo de jogo: 1189 MHz (Clock de referência: 1176 MHz)
+- GPU: Radeon RX 560
+- Processador de Fluxo: 896 (14CU)
+- Processo tecnológico: 14 nm
+- Clock eficaz: 7000 MHz
+- Tamanho da memória: 4GB
+- Tipo de memória: GDDR5
+- Interface: 128 bits
+- 1x Dual-link DVI-D
+- 1x HDMI-2.0b (Resolução máxima: 4096x2160 @ 60 Hz 
+- 1x Display Port-1.4 (Resolução máxima: 7680x4320 @ 60 Hz)

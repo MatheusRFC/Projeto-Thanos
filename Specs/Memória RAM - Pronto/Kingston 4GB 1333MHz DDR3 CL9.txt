@@ -1,0 +1,10 @@
+Kingston 4GB 1333MHz DDR3 CL9 R$170,00
+
+Especificações:
+- Frequência: 1333Mhz
+- Pinagem: 240-Pin
+- Capacidade: 4GB (1 x 4GB)
+- Latência CAS: DDR3
+- Latência: 9
+- Timing: 9-8-7-6
+- Tensão: 1.5V

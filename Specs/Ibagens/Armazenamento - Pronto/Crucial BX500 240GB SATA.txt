@@ -1,0 +1,14 @@
+Crucial BX500 240GB SATA R$200,00
+
+
+Especificações:
+
+- Fator de forma: SSD interno de 2,5 polegadas
+- Capacidade: 240 GB
+- Series: BX500
+- Interface: SATA 6.0Gb / s
+- Tipo de dispositivo: Drive de estado sólido interno
+- Altura da unidade: 7,0 mm
+- Fator de forma: 2,5 "(7mm)
+- Leitura: 540 MB / s
+- Gravação: 500 MB / s

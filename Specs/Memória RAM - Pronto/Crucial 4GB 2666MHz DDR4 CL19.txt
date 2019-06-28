@@ -1,0 +1,9 @@
+Crucial 4GB 2666MHz DDR4 CL19 R$ 140,00
+
+Especificações:
+
+- Capacidade de 4GB
+- Velocidade: 2666 MHz
+- Interface: PC4-21300 UDIMM
+- Pinagem: 288 pinos
+- Latência do CAS: CL19

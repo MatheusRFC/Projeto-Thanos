@@ -1,0 +1,17 @@
+EVGA 650W 100-N1-0650-L R$280,00
+
+Especificações:
+
+- Voltagem: 100 - 240 VAC
+- AC Entrada: 8-4A
+- Frequência: 50 - 60 Hz
+- Eficiência: 75% Típico
+- OVP (Proteção contra sobretensão)
+- OCP (Proteção de Corrente)
+- OPP (Proteção de Energia)
+- SCP (Proteção de curto-circuito)
+- OTP (Proteção de temperatura)
+- Aprovações: TUV, cUL, CE, FCC, BSMI, CCC, WEEE, RoHS
+- Dimensão: 85 x 150  x 140 mm
+- MTBF: 100,000 Horas
+- Refrigeração: 120 mm Sleeve Bearing

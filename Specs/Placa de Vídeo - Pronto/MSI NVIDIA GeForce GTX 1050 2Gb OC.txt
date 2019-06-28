@@ -1,0 +1,14 @@
+MSI NVIDIA GeForce GTX 1050 2Gb OC R$600,00
+
+Especificações:
+
+- Core Clock 1518 MHz / 1404 MHz
+- GTX 1050 AERO ITX 2G OC
+- NVIDIA® GeForce® GTX 1050
+- Cores: 640
+- Tamanho: 2GB
+- Tipo: GDDR5 de 128 bits
+- Clock da memória: 7008 MHz
+- DisplayPort (Version 1.4) 
+- HDMI (Version 2.0) 
+- DL-DVI-D

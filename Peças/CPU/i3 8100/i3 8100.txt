@@ -1,0 +1,15 @@
+Processador Intel® Core™ i3-8100
+
+Modelo gráfico: Intel® UHD Graphics 630
+Nº de núcleos de CPU: 4 
+Nº de threads: 4 
+Clock de Max Boost: 3.6 GHz 
+Clock básico: 3.6 GHz 
+Solução térmica: Default Cooler Box
+TDP / TDP Padrão: 65W
+
+Preço: 660,00
+
+Benchmarks:
+
+3DMark Physics: 7.776

@@ -1,0 +1,15 @@
+Processador AMD Ryzen™ 7 2700X
+
+Modelo gráfico: Exige cartão gráfico discreto 
+Nº de núcleos de CPU: 8 
+Nº de threads: 16 
+Clock de Max Boost: 4.3GHz 
+Clock básico: 3.7GHz 
+Solução térmica: Wraith Prism with RGB LED 
+TDP / TDP Padrão: 105W
+
+Preço: 1700,00
+
+Benchmarks:
+
+3DMark Physics: 19.786

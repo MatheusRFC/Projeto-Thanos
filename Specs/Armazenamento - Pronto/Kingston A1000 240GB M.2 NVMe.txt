@@ -1,0 +1,11 @@
+SSD Kingston A1000 240GB M.2 NVMe R$290,00
+Especificações:
+- Formato M.2 2280 
+- Interface PCIe NVMe Ger 3.0 x 2 pistas 
+- Capacidades: 240GB
+- Controlador Phison E8 
+- NAND 3D TLC 
+- Leitura/gravação sequencial: até 1.500/800MB/s
+- Leitura/Gravação aleatória 4K: até 100.000/80.000 IOPS
+- Consumo de Energia 0.011748W inativo / 0.075623W med / 0,458W (MAX) leitura / 0,908W (MAX) gravação 
+- Dimensões 80 mm x 22 mm x 3,5 mm 

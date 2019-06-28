@@ -1,0 +1,13 @@
+Processador Intel® Core™ i5-8400 R$990,00
+
+Modelo gráfico: Intel® UHD Graphics 630
+Nº de núcleos de CPU: 6 
+Nº de threads: 6 
+Clock de Max Boost: 4.0 GHz 
+Clock básico: 2.8GHz 
+Solução térmica: Default Cooler Box
+TDP / TDP Padrão: 65W
+
+Benchmarks:
+
+3DMark Physics: 11.989

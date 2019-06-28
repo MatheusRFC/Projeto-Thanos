@@ -1,0 +1,18 @@
+Corsair Force Series MP300 120GB M.2 NVMe R$190,00
+ 
+
+Especificações:
+
+- Capacidade: 120GB
+- Suporte inteligente SSD
+- Interface SSD: PCIe Gen 3.0 x2
+- Leitura sequencial máxima de SSD: Até 1.520MB / s
+- Gravação sequencial máxima de SSD: Até 460MB / s
+- Máx. Random Escrita QD32 IOMeter: 80k IOPS
+- Máx. Random Leitura QD32 IOMeter: 110K IOPS
+- Fator de forma: M.2 2280
+- Tecnologia NAND: 3D NAND TLC
+- Tempertura de armazenamento: -40 ° C a + 85 ° C
+- Temperatura de operação do SSD: 0 ° C a + 70 ° C
+
+

@@ -1,0 +1,16 @@
+Processador AMD Ryzen™ 5 1600 R$620,00
+
+Modelo gráfico: Exige cartão gráfico discreto 
+Nº de núcleos de CPU: 6 
+Nº de threads: 12 
+Clock de Max Boost: 3.6 GHz 
+Clock básico: 3.2GHz 
+Solução térmica: Wraith Spire (No LED)
+TDP / TDP Padrão: 65W
+
+Cinebench R15:
+3DMark Physics: 14.973
+
+Benchmarks:
+
+3DMark Physics: 14.973

@@ -1,0 +1,19 @@
+Cooler Master MasterAir MA610P R$240,00
+
+Especificações:
+
+- Dimensões: 122,3 x 112,8 x 166,5 mm (4,8 x 4,4 x 6,5 ")
+- Dimensões do dissipador de calor: 116 x 60 x 158 mm (4,5 x 2,4 x 6,2 ")
+- Material do dissipador de calor: 6 tubos de calor / contato direto / aletas de alumínio
+- Dimensões da tubulação de calor: Ø6 mm
+- Dimensões do Ventilador: 120 x 120 x 25 mm (4,7 x 4,7 x 1 ")
+- Velocidade do ventilador: 600 - 1.800 RPM (PWM) ± 10%
+- Fan Air Flow: 53,38 CFM (máx.)
+- Pressão de ar do ventilador: 1,65 mm H2O (máx.)
+- Fan MTTF: 40.000 horas
+- Cor LED: RGB
+- Nível de ruído do ventilador: 35 dBA (máx.)
+- Conector do ventilador: 4 pinos
+- Tensão nominal do ventilador: 12 VDC
+- Corrente nominal do ventilador: 0.30 A
+

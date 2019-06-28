@@ -1,0 +1,15 @@
+Asus TUF H310M-Plus Gaming/BR R$430,00
+
+Processador:
+
+- Intel Socket 1151 para 9ª e 8ª geração de processadores Core i7/Core i5/Core i3/Pentium/Celeron
+- Suporta processadores Intel de 14 nm
+- Suporta a tecnologia Intel Turbo Boost 2.0
+- Intel H310
+- 2x DIMM, máximo de 32GB, DDR4 2666/2400/2133 MHz Non-ECC, Un-buffered
+- Processador Gráfico Integrado
+- Múltiplas saídas de vídeo: portas HDMI/D-Sub (VGA) 
+- Suporta VGA com resolução máxima de 1920 x 1200 @ 60 Hz
+- Suporta HDMI com resolução máxima de 4096 x 2160 @ 24 Hz / 2560 x 1600 @ 60 Hz
+- Máximo de memória compartilhada 1024 MB (Exclusivo para iGPU)
+- Suporta Intel InTru 3D, Quick Sync Video, Clear Video HD Technology, Insider

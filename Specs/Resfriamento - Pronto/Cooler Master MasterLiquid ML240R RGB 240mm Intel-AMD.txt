@@ -1,0 +1,19 @@
+Cooler Master MasterLiquid ML240R RGB 240mm Intel-AMD R$760,00
+
+Especificações:
+
+- Material do radiador: Alumínio
+- Dimensões do radiador: 277 x 119,6 x 27 mm (10,9 x 4,71 x 1,06 ")
+- Dimensões do Ventilador: 120 x 120 x 25 mm (4,7 x 4,7 x 1 ")
+- Dimensões da bomba: 83,6 x 71,8 x 52,7 mm (3,3 x 2,8 x 2,1 ")
+- Quantidade de fãs: 2 PCS
+- Velocidade do ventilador: 650 ~ 2000 RPM (PWM) ± 10%
+- Fan Air Flow: 66,7 CFM (máx.)
+- Pressão de ar do ventilador: 2,34 mmH 2 O (máx)
+- Fan MTTF: 160.000 horas
+- Nível de ruído do ventilador: 6 ~ 30 dBA
+- Conector do ventilador: 4 pinos (PWM)
+- Tensão nominal do ventilador: 12 VDC
+- Bomba MTTF: 70.000 horas
+- Nível de ruído da bomba: <15 dBA
+

@@ -1,0 +1,18 @@
+Thermaltake Frio Silent 12 R$215,00
+
+Especificações: 
+
+-Compatibilidade: Intel LGA 2011/1366/1155/1156/1150/775 AMD FM2/FM1/AM3+/AM3/AM2+/AM2
+-Tamanho Heatsink: 140H*128W*40L mm
+-Material Heatsink: Aluminum FinsCopper Heatpipes
+-Heatpipe: F8mm x 3 pcs
+-Dimensão do Fan : 120 x 120 x 25 mm(L xW x H)
+-Quantidade de Fans: 1pcs
+-Velocidade do Fan: 500~1400 RPM 300~700 RPM (with LNC )
+-Rated Voltage: 12V
+-Start Voltage: 7 V
+-Rated Current: 0.2 A
+-Power Input: 2.88W
+-Fluxo do Ar: 55.88 CFM
+-Pressão do Ar: 1.25 mm-H2O
+-Ruído: 19.2 dBA 12 dBA

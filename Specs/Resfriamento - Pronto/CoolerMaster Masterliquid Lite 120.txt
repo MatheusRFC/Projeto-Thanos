@@ -1,0 +1,16 @@
+CoolerMaster Masterliquid Lite 120 R$230,00
+
+
+Especificações:
+
+- Intel: LGA 2011-v3 / 2011 / 1366 / 1151 / 1150 / 1156 / 1155 / 775 socket
+- AMD: AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1 socket
+- Dimensões: 62 x 62 x 36,4 milímetros
+- Conector de força: 4-Pin
+- Dimensões: 80,3 x 76 x 42,2 milímetros
+- MTTF: 70.000 horas
+- Nível de ruído: <8 dBA
+- Conector: 3-Pin
+- Tensão nominal: 12 VDC
+- Corrente de carga: 0.3 A
+- Consumo de energia: 3.96W

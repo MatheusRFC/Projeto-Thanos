@@ -1,0 +1,12 @@
+Gigabyte AMD Radeon RX 570 4GB R$730,00
+
+Especificações:
+
+- Radeon RX570
+- Processo Tecnológico: 14 nm
+- Modo OC: 1255MHz 
+- Modo de jogo: 1244MHz
+- Clock: 7000 MHz
+- Capacidade: 4 GB
+- Tipo: GDDR5
+- Bus: 256 bit

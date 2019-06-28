@@ -1,0 +1,10 @@
+WD Blue 1TB 3.5´ R$220,00
+
+Especificações:
+- Interface: SATA 6 Gb/s
+- Capacidade: 1TB
+- Form factor: 3.5-inch
+- RoHS compliant
+- Cache: 64MB
+- Rotação: 7200 rpm
+- Buffer para host: 6 Gb/s 

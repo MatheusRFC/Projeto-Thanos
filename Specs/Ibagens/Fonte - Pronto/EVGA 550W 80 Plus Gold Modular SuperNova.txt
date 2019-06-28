@@ -1,0 +1,15 @@
+EVGA 550W 80 Plus Gold Modular SuperNova R$625,00
+
+Energia:
+
+- Entrada de AC: 100 - 240 VAC, 10A, 50 - 60 Hz
+- Potência de saída: 550W @ + 50C
+- +3.3V: 22A 110W
+- +5V: 22A 110W
+- +12V: 45,8A 549,6W
+- +5Vsb: 3A 15W
+- -12V: 0.5A 6W
+- Temperatura de operação: 0° a 50° C
+- Capacitores japoneses: 100%
+- Modo ECO
+- Dimensões: 85mm (H) x 150mm (W) x 150mm (L)

@@ -1,0 +1,16 @@
+Cooler Master MasterWatt TUF 750W R$595,00
+
+Especificações:
+
+- Versão ATX: ATX 12V V2.4
+- PFC ativo
+- Tensão de operação: 100-240 Vac
+- Tensão de entrada: 100-240 Vac
+- Corrente de entrada: 10-5 A
+- Frequência de entrada: 50 a 60 Hz
+- Dimensões (LxWxH): 140 x 150 x 86 mm
+- Tamanho do ventilador: 120 mm
+- Rolamento do ventilador: LDB
+- Bom Sinal de Potência: 100 a 500 ms
+- Tempo de espera: 16ms a 80% de carga
+- Eficiência: Carga típica de 85% @

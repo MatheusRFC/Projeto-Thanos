@@ -1,0 +1,9 @@
+WD SATA 3.5´ Purple Surveillance 12TB R$2.600,00
+
+Especificações:
+- Capacidade: 12 TB
+- Interface: SATA 6Gb / s
+- Fator de forma: 3,5 polegadas
+- Velocidade do disco: 7200 rpm
+- Cache: 256MB
+- Dimensões: 147 x 101,6 mm

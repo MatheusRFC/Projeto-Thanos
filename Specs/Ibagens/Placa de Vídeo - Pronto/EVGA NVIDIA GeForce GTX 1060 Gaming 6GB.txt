@@ -1,0 +1,15 @@
+EVGA NVIDIA GeForce GTX 1060 Gaming 6GB  R$1.000,00
+
+Performance:
+
+- NVIDIA GTX 1060 6GB
+- Pipelines: 1280 pixel
+- Base do Clock: 1506 MHz
+- Impulso do Clock: 1708 MHz
+- Taxa de Textura: 120.4GT/s
+- Capacidade: 6144 MB
+- Interface: 192 bit
+- Tipo: GDDR5
+- Velocidade: 0.28 ns
+- Clock: 8008 MHz (efetivos)
+- Largura da banda: 192 GB/s

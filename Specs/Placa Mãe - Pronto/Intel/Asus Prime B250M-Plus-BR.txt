@@ -1,0 +1,11 @@
+Asus Prime B250M-Plus/BR R$390,00
+
+Especificações:
+
+- Soquete Intel 1151 para 7/6th Geração de processadores Core i7/Core i5/Core i3/Pentium/Celeron
+- Suporta processadores Intel® de 14 nm
+- Suporta a tecnologia Intel® Turbo Boost 2.0
+- Intel® B250
+- 4 x DIMM, máximo de 64GB, DDR4 - 2400/2133 MHz Non-ECC, Un-buffered Memory 
+- Arquitetura de memória: Dois canais
+- Suporta Intel® Extreme Memory Profile (XMP)

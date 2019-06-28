@@ -1,0 +1,14 @@
+Gigabyte 78lmt-usb3 R$500,00
+
+Especificações:
+
+AM3 + Socket:
+- Suporte para processador AMD AM3 +
+- Suporte para o processador AMD AM3 Phenom II / processador AMD Athlon II
+- HyperTransport 3.0
+- Suporta até 5200MT / s
+- North Bridge: AMD 760G
+- South Bridge: AMD SB710
+- 4 x soquetes DIMM DDR3 suportando até 32 GB de memória do sistema * Devido a uma limitação do sistema operacional do Windows 32 bits, quando mais de 4 GB de memória física estiver instalada, o tamanho da memória real exibida será menor que o tamanho do físico memória instalada.
+- Arquitetura de memória de canal duplo
+- Suporte para módulos de memória 1600 (OC) / 1333/1066 MHz (Consulte "Lista de Suporte de Memória" para obter mais informações.)

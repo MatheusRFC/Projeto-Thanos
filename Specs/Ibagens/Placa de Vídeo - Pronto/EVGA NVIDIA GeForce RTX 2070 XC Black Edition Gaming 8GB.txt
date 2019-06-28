@@ -1,0 +1,13 @@
+EVGA NVIDIA GeForce RTX 2070 XC Black Edition Gaming 8GB R$3.000,00
+
+Performance:
+
+- NVIDIA RTX 2070
+- 2304 núcleos CUDA
+- Clock: 1620 MHz
+- Taxa de preenchimento de textura de 233,3 GT/s
+- Capacidade: 8192 MB
+- Tipo: GDDR6
+- Interface: 256 bits
+- Clock: 14000 MHz (efetivo)
+- Largura de banda: 448 GB/s

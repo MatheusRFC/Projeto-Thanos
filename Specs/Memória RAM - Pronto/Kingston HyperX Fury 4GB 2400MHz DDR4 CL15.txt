@@ -1,0 +1,12 @@
+Kingston HyperX Fury 4GB 2400MHz DDR4 CL15 R$160,00
+
+Especificações:
+
+- Velocidade de Frequência: 2.400MHz
+- Latência CAS: CL15 (15-15-15)
+- Tipo: DDR4
+- Pinagem: 288-Pin
+- Voltagem: 1.2V
+- Temperatura de operação: 0°C a 85°C
+- Temperatura de armazenagem: -55°C a 100°C
+- Compatível com chipset Intel X99

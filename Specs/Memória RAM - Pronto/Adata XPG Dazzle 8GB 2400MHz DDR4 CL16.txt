@@ -1,0 +1,9 @@
+Adata XPG Dazzle 8GB 2400MHz DDR4 CL16 R$260,00
+
+Especificações:
+
+- Capacidade: 8GB (1x8GB)
+- Tipo: DDR4
+- Velocidade: 2400 MHz
+- Latência: CL16-16-16
+- Cor: Vermelho

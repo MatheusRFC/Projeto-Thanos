@@ -1,0 +1,17 @@
+Corsair Hydro Series H100I Pro 240mm R$670,00
+
+Especificações:
+
+- Dimensões do radiador: 276 x 120 x 27 mm
+- Dimensões do ventilador: 120 x 25 mm
+- Velocidade do ventilador: 2400 RPM
+- Fluxo de ar do ventilador: 75 CFM
+- Nível de Ruído: 37 dBA
+- Pressão estática do ventilador: 4.2 mm H²O
+- Iluminação: RGB
+- Tamanho do radiador: 240 mm
+- Fan Model: Série ML
+- Material de Placa Fria: Cobre
+- Material do radiador: Alumínio
+- PWM
+- Compatibilidade com o CORSAIR iCUE

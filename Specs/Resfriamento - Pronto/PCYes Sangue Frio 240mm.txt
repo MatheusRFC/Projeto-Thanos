@@ -1,0 +1,21 @@
+PCYes Sangue Frio 240mm R$300,00
+
+Especificações:
+
+- Dimensões do radiador: 274x120x27mm
+- Dimensões do fan: 120x120x25mm
+- TDP: 200W
+- Alimentação: 12V
+- Tensão: 10.8~13.2V
+- Tensão de Partida: 7V
+- Corrente: 0.38±10%A
+- Entrada de energia: 4.56W
+- Rolamento hidráulico
+- Fans inclusos: 2 unidades
+- Max. pressão de ar do fan: 3.2mmH²O
+- Velocidade do fan: 800~2000±10% RPM
+- Max. fluxo de ar do fan: 84.5 CFM
+- Ruído do fan: 20-38.2 db(A)
+
+
+

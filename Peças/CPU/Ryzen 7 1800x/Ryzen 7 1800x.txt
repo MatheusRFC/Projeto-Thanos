@@ -1,0 +1,15 @@
+Processador AMD Ryzen™ 7 1800x
+
+Modelo gráfico: Exige cartão gráfico discreto 
+Nº de núcleos de CPU: 8 
+Nº de threads: 16 
+Clock de Max Boost: 4GHz 
+Clock básico: 3.6GHz 
+Solução térmica: Not included 
+TDP / TDP Padrão: 95W
+
+Preço: 1420,00
+
+Benchmarks:
+
+3DMark Physics: 18.491

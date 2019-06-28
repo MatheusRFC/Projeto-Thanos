@@ -1,0 +1,15 @@
+Cooler Master 450W 80 Plus Bronze Semi-Modular R$280,00
+
+Especificações:
+
+- Tipo: Intel ATX 12V V2.31
+- PFC: PFC ativo
+- Tensão de operação: 100-240 Vac
+- Tensão de entrada: 100-240 Vac
+- Corrente de entrada: 8-4 A
+- Freqüência de entrada: 50 a 60 Hz
+- Dimensões (LxBxH): 140 x 150 x 86 mm
+- Tamanho do ventilador: 120 mm
+- Rolamento do ventilador: LDB
+- Bom Sinal de Potência: 100 a 500 ms
+- Tempo de espera: 16ms a 80% de carga
